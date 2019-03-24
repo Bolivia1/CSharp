@@ -1,0 +1,17 @@
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\unit_teszteles_feladat.exe
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\unit_teszteles_feladat.pdb
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\unit_teszteles_feladat.exe.config
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\unit_teszteles_feladat\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,14 @@
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\ciklusok_gyakorlas\ciklusok_gyakorlas\obj\Debug\ciklusok_gyakorlas.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\ciklusok_gyakorlas\ciklusok_gyakorlas\obj\Debug\ciklusok_gyakorlas.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\ciklusok_gyakorlas\ciklusok_gyakorlas\bin\Debug\ciklusok_gyakorlas.exe.config
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\ciklusok_gyakorlas\ciklusok_gyakorlas\bin\Debug\ciklusok_gyakorlas.exe
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\ciklusok_gyakorlas\ciklusok_gyakorlas\bin\Debug\ciklusok_gyakorlas.pdb
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\ciklusok_gyakorlas\ciklusok_gyakorlas\obj\Debug\ciklusok_gyakorlas.exe
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\ciklusok_gyakorlas\ciklusok_gyakorlas\obj\Debug\ciklusok_gyakorlas.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\2_ciklusok_gyakorlas\ciklusok_gyakorlas\bin\Debug\ciklusok_gyakorlas.exe.config
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\2_ciklusok_gyakorlas\ciklusok_gyakorlas\bin\Debug\ciklusok_gyakorlas.exe
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\2_ciklusok_gyakorlas\ciklusok_gyakorlas\bin\Debug\ciklusok_gyakorlas.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\2_ciklusok_gyakorlas\ciklusok_gyakorlas\obj\Debug\ciklusok_gyakorlas.csprojAssemblyReference.cache
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\2_ciklusok_gyakorlas\ciklusok_gyakorlas\obj\Debug\ciklusok_gyakorlas.csproj.CoreCompileInputs.cache
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\2_ciklusok_gyakorlas\ciklusok_gyakorlas\obj\Debug\ciklusok_gyakorlas.exe
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\2_ciklusok_gyakorlas\ciklusok_gyakorlas\obj\Debug\ciklusok_gyakorlas.pdb

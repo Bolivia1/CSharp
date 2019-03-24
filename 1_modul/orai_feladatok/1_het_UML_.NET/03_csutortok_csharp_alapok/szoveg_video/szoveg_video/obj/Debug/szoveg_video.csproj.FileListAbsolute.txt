@@ -1,0 +1,7 @@
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\csutortok_\szoveg_video\szoveg_video\bin\Debug\szoveg_video.exe.config
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\csutortok_\szoveg_video\szoveg_video\bin\Debug\szoveg_video.exe
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\csutortok_\szoveg_video\szoveg_video\bin\Debug\szoveg_video.pdb
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\csutortok_\szoveg_video\szoveg_video\obj\Debug\szoveg_video.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\csutortok_\szoveg_video\szoveg_video\obj\Debug\szoveg_video.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\csutortok_\szoveg_video\szoveg_video\obj\Debug\szoveg_video.exe
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\csutortok_\szoveg_video\szoveg_video\obj\Debug\szoveg_video.pdb

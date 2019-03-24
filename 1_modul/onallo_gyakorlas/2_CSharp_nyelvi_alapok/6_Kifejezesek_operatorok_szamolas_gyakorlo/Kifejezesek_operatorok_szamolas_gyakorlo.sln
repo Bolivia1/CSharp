@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kifejezesek_operatorok_szamolas_gyakorlo", "Kifejezesek_operatorok_szamolas_gyakorlo\Kifejezesek_operatorok_szamolas_gyakorlo.csproj", "{91A08847-B6A9-42A7-8CA7-27B1E764D9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{7E2A2A36-3AF7-42D0-B3F4-6C33EA38DA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A08847-B6A9-42A7-8CA7-27B1E764D9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A08847-B6A9-42A7-8CA7-27B1E764D9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A08847-B6A9-42A7-8CA7-27B1E764D9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A08847-B6A9-42A7-8CA7-27B1E764D9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2A2A36-3AF7-42D0-B3F4-6C33EA38DA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2A2A36-3AF7-42D0-B3F4-6C33EA38DA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2A2A36-3AF7-42D0-B3F4-6C33EA38DA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2A2A36-3AF7-42D0-B3F4-6C33EA38DA32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {414A8B70-F118-4AD4-A59C-B14EBA41616B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\nullable_feladat\nullable_feladat\obj\Debug\nullable_feladat.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\nullable_feladat\nullable_feladat\obj\Debug\nullable_feladat.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\nullable_feladat\nullable_feladat\bin\Debug\nullable_feladat.exe.config
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\nullable_feladat\nullable_feladat\bin\Debug\nullable_feladat.exe
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\nullable_feladat\nullable_feladat\bin\Debug\nullable_feladat.pdb
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\nullable_feladat\nullable_feladat\obj\Debug\nullable_feladat.exe
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\nullable_feladat\nullable_feladat\obj\Debug\nullable_feladat.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\2_CSharp_nyelvi_alapok\5_nullable_feladat\nullable_feladat\bin\Debug\nullable_feladat.exe.config
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\2_CSharp_nyelvi_alapok\5_nullable_feladat\nullable_feladat\bin\Debug\nullable_feladat.exe
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\2_CSharp_nyelvi_alapok\5_nullable_feladat\nullable_feladat\bin\Debug\nullable_feladat.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\2_CSharp_nyelvi_alapok\5_nullable_feladat\nullable_feladat\obj\Debug\nullable_feladat.csprojAssemblyReference.cache
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\2_CSharp_nyelvi_alapok\5_nullable_feladat\nullable_feladat\obj\Debug\nullable_feladat.csproj.CoreCompileInputs.cache
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\2_CSharp_nyelvi_alapok\5_nullable_feladat\nullable_feladat\obj\Debug\nullable_feladat.exe
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\2_CSharp_nyelvi_alapok\5_nullable_feladat\nullable_feladat\obj\Debug\nullable_feladat.pdb

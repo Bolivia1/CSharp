@@ -1,0 +1,12 @@
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\bin\Debug\FirstClassLibrary.dll
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\bin\Debug\FirstClassLibrary.pdb
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\obj\Debug\FirstClassLibrary.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\obj\Debug\FirstClassLibrary.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\obj\Debug\FirstClassLibrary.dll
+D:\yr12\Második_modul_CSharp_.NET\1_het_UML_.NET\szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\obj\Debug\FirstClassLibrary.pdb
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\1_het_UML_.NET\02_szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\bin\Debug\FirstClassLibrary.dll
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\1_het_UML_.NET\02_szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\bin\Debug\FirstClassLibrary.pdb
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\1_het_UML_.NET\02_szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\obj\Debug\FirstClassLibrary.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\1_het_UML_.NET\02_szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\obj\Debug\FirstClassLibrary.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\1_het_UML_.NET\02_szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\obj\Debug\FirstClassLibrary.dll
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\1_het_UML_.NET\02_szerda_.net_alapozas\FirstConsoleApp\FirstClassLibrary\obj\Debug\FirstClassLibrary.pdb

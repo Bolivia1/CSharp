@@ -1,0 +1,12 @@
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\MezoBank\MezoBankLibrary\bin\Debug\MezoBankLibrary.dll
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\MezoBank\MezoBankLibrary\bin\Debug\MezoBankLibrary.pdb
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\MezoBank\MezoBankLibrary\obj\Debug\MezoBankLibrary.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\MezoBank\MezoBankLibrary\obj\Debug\MezoBankLibrary.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\MezoBank\MezoBankLibrary\obj\Debug\MezoBankLibrary.dll
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\MezoBank\MezoBankLibrary\obj\Debug\MezoBankLibrary.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\orai_feladatok\2_het_.NET_CSharp\csutortok\MezoBank\MezoBankLibrary\bin\Debug\MezoBankLibrary.dll
+D:\yr12\Masodik_modul_CSharp_.NET\orai_feladatok\2_het_.NET_CSharp\csutortok\MezoBank\MezoBankLibrary\bin\Debug\MezoBankLibrary.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\orai_feladatok\2_het_.NET_CSharp\csutortok\MezoBank\MezoBankLibrary\obj\Debug\MezoBankLibrary.csprojAssemblyReference.cache
+D:\yr12\Masodik_modul_CSharp_.NET\orai_feladatok\2_het_.NET_CSharp\csutortok\MezoBank\MezoBankLibrary\obj\Debug\MezoBankLibrary.csproj.CoreCompileInputs.cache
+D:\yr12\Masodik_modul_CSharp_.NET\orai_feladatok\2_het_.NET_CSharp\csutortok\MezoBank\MezoBankLibrary\obj\Debug\MezoBankLibrary.dll
+D:\yr12\Masodik_modul_CSharp_.NET\orai_feladatok\2_het_.NET_CSharp\csutortok\MezoBank\MezoBankLibrary\obj\Debug\MezoBankLibrary.pdb

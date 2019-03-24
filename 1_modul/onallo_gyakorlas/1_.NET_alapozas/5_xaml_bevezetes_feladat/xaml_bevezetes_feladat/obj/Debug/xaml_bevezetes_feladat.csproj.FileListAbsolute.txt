@@ -1,0 +1,15 @@
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\bin\Debug\xaml_bevezetes_feladat.exe.config
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\bin\Debug\xaml_bevezetes_feladat.exe
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\bin\Debug\xaml_bevezetes_feladat.pdb
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\xaml_bevezetes_feladat.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\MainWindow.g.cs
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\App.g.cs
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\xaml_bevezetes_feladat_MarkupCompile.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\xaml_bevezetes_feladat_MarkupCompile.lref
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\MainWindow.baml
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\xaml_bevezetes_feladat.g.resources
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\xaml_bevezetes_feladat.Properties.Resources.resources
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\xaml_bevezetes_feladat.csproj.GenerateResource.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\xaml_bevezetes_feladat.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\xaml_bevezetes_feladat.exe
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\xaml_bevezetes_feladat\xaml_bevezetes_feladat\obj\Debug\xaml_bevezetes_feladat.pdb

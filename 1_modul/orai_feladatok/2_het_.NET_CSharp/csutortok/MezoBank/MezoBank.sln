@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MezoBankUnitTest", "MezoBankUnitTest\MezoBankUnitTest.csproj", "{62B984CE-5AE9-487A-AB84-16B88A308D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MezoBankLibrary", "MezoBankLibrary\MezoBankLibrary.csproj", "{BCBCC92D-98F1-49DD-94AA-0AB06E0D11C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B984CE-5AE9-487A-AB84-16B88A308D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B984CE-5AE9-487A-AB84-16B88A308D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B984CE-5AE9-487A-AB84-16B88A308D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B984CE-5AE9-487A-AB84-16B88A308D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBCC92D-98F1-49DD-94AA-0AB06E0D11C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBCC92D-98F1-49DD-94AA-0AB06E0D11C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBCC92D-98F1-49DD-94AA-0AB06E0D11C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBCC92D-98F1-49DD-94AA-0AB06E0D11C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD2B1B44-1BB7-4A1D-ADBA-ADBDD4225625}
+	EndGlobalSection
+EndGlobal

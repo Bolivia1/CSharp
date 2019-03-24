@@ -1,0 +1,6 @@
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\InterfacesLibrary\bin\Debug\InterfacesLibrary.dll
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\InterfacesLibrary\bin\Debug\InterfacesLibrary.pdb
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\InterfacesLibrary\obj\Debug\InterfacesLibrary.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\InterfacesLibrary\obj\Debug\InterfacesLibrary.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\InterfacesLibrary\obj\Debug\InterfacesLibrary.dll
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\InterfacesLibrary\obj\Debug\InterfacesLibrary.pdb

@@ -1,0 +1,11 @@
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\probalkozas\kutyak\bin\Debug\kutyak.dll
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\probalkozas\kutyak\bin\Debug\kutyak.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\probalkozas\kutyak\obj\Debug\kutyak.csproj.CoreCompileInputs.cache
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\probalkozas\kutyak\obj\Debug\kutyak.dll
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\probalkozas\kutyak\obj\Debug\kutyak.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\egyeb_gyakorlas\probalkozas\kutyak\bin\Debug\kutyak.dll
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\egyeb_gyakorlas\probalkozas\kutyak\bin\Debug\kutyak.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\egyeb_gyakorlas\probalkozas\kutyak\obj\Debug\kutyak.csprojAssemblyReference.cache
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\egyeb_gyakorlas\probalkozas\kutyak\obj\Debug\kutyak.csproj.CoreCompileInputs.cache
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\egyeb_gyakorlas\probalkozas\kutyak\obj\Debug\kutyak.dll
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\egyeb_gyakorlas\probalkozas\kutyak\obj\Debug\kutyak.pdb

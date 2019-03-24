@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankszamla_tesztelo", "Bankszamla_tesztelo\Bankszamla_tesztelo.csproj", "{C56636F0-56DC-40B6-A6FD-9655122511BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankszamla", "Bankszamla\Bankszamla.csproj", "{227CAC0E-8974-42BC-A0E8-351AF1B56E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56636F0-56DC-40B6-A6FD-9655122511BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56636F0-56DC-40B6-A6FD-9655122511BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56636F0-56DC-40B6-A6FD-9655122511BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56636F0-56DC-40B6-A6FD-9655122511BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227CAC0E-8974-42BC-A0E8-351AF1B56E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227CAC0E-8974-42BC-A0E8-351AF1B56E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227CAC0E-8974-42BC-A0E8-351AF1B56E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227CAC0E-8974-42BC-A0E8-351AF1B56E68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D86D185-68D7-4BFA-A2A3-22A540A8C0C9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\bin\Debug\Budapestiek.exe.config
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\bin\Debug\Budapestiek.exe
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\bin\Debug\Budapestiek.pdb
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\bin\Debug\Debreceniek.dll
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\bin\Debug\InterfacesLibrary.dll
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\bin\Debug\Debreceniek.pdb
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\bin\Debug\InterfacesLibrary.pdb
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\obj\Debug\Budapestiek.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\obj\Debug\Budapestiek.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\obj\Debug\Budapestiek.csproj.CopyComplete
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\obj\Debug\Budapestiek.exe
+D:\yr12\Második_modul_CSharp_.NET\órai_feladatok\2_het_.NET_CSharp\kedd\Beszeloke\Budapestiek\obj\Debug\Budapestiek.pdb

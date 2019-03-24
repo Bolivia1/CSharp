@@ -1,0 +1,14 @@
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\elagazas_gyakorlas\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\elagazas_gyakorlas\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\elagazas_gyakorlas\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\elagazas_gyakorlas\ConsoleApp1\obj\Debug\Elagazas_gyakorlas.csprojAssemblyReference.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\elagazas_gyakorlas\ConsoleApp1\obj\Debug\Elagazas_gyakorlas.csproj.CoreCompileInputs.cache
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\elagazas_gyakorlas\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\yr12\Második_modul_CSharp_.NET\önálló_gyakorlás\elagazas_gyakorlas\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\1_elagazas_gyakorlas\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\1_elagazas_gyakorlas\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\1_elagazas_gyakorlas\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\1_elagazas_gyakorlas\ConsoleApp1\obj\Debug\Elagazas_gyakorlas.csprojAssemblyReference.cache
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\1_elagazas_gyakorlas\ConsoleApp1\obj\Debug\Elagazas_gyakorlas.csproj.CoreCompileInputs.cache
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\1_elagazas_gyakorlas\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\yr12\Masodik_modul_CSharp_.NET\onallo_gyakorlas\4_Vezerlesi_szerkezetek\1_elagazas_gyakorlas\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
